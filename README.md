@@ -17,3 +17,6 @@
 * HTML;
 * CSS;
 * БЭМ.
+
+## Ссылка на проект
+https://amokroborodov.github.io/russian-travel/index.html
