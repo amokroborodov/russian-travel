@@ -36,4 +36,7 @@
         grid-gap: 32px 0;
         max-width: 720px;
     }
+    .place:not(last-child) {
+        margin-bottom: 50px;
+    }
 }
