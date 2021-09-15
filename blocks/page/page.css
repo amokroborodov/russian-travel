@@ -9,5 +9,6 @@
     margin: 0;
     font-family: Inter, sans-serif;
     color: #FFFFFF;
+    min-width: 320px;
 
 }
